@@ -3,8 +3,6 @@
 
 🌱 Lifetime Learner: Always learning new frameworks, taking courses, and improving my skills!
 
-💬 Ask me about: React, Vue, GSAP, Tailwind, Laravel
-
 ⚡ Fun fact: I think I am funny 😄
 
 📫 How to reach me: dewodewo3104@gmail.com
