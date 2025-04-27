@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhamad Kurnia Dewanto Ramadhansyah</h1> <h3 align="center">A passionate Web Developer from Indonesia 🇮🇩</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Backend+Frontend+Enjoyer;React+%7C+Vue+%7C+Laravel+Lover" alt="Typing SVG" /> </p>
+<h1 align="center">Hi 👋, I'm Muhamad Kurnia Dewanto Ramadhansyah</h1> <h3 align="center">A passionate Web Developer from Indonesia 🇮🇩</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Lifetime+Learner;React+%7C+Vue+%7C+Laravel+Lover" alt="Typing SVG" /> </p>
 🔭 I’m currently working on: All of my mini projects
 
 🌱 Lifetime Learner: Always learning new frameworks, taking courses, and improving my skills!
